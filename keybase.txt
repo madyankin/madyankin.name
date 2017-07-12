@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/madyankin
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://madyankin.name
+  * I am madyankin (https://keybase.io/madyankin) on keybase.
+  * I have a public key ASAjnGC7vJVp3fyGWaQe6ppOydAJhTKNbe7R03QPEbSmRwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120239c60bbbc9569ddfc8659a41eea9a4ec9d00985328d6deed1d3740f11b4a6470a",
+            "host": "keybase.io",
+            "kid": "0120239c60bbbc9569ddfc8659a41eea9a4ec9d00985328d6deed1d3740f11b4a6470a",
+            "uid": "4a85fa1dede5272eec507a9d5c56eb19",
+            "username": "madyankin"
+        },
+        "merkle_root": {
+            "ctime": 1499830954,
+            "hash": "00af5041fe07676087698ad10e989f72fb0c1f2349f19028e15f8ffbb3bca2f1a19ec8f5de05897a1d4678ad1615fa6a18891d28640b2cdbc0be8673be1d86f1",
+            "hash_meta": "1d5018143c6eb7c0d3a79f4ffb9ad3287a3b6a25b952aea49149353a4c3b4572",
+            "seqno": 1226948
+        },
+        "service": {
+            "hostname": "madyankin.name",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.24"
+    },
+    "ctime": 1499831001,
+    "expire_in": 504576000,
+    "prev": "a303ca843f86c57c1194baff05b212dc5a3ba2c36fc4dcee58e2b9acd92d6afb",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgI5xgu7yVad38hlmkHuqaTsnQCYUyjW3u0dN0DxG0pkcKp3BheWxvYWTFA0d7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMjM5YzYwYmJiYzk1NjlkZGZjODY1OWE0MWVlYTlhNGVjOWQwMDk4NTMyOGQ2ZGVlZDFkMzc0MGYxMWI0YTY0NzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMjM5YzYwYmJiYzk1NjlkZGZjODY1OWE0MWVlYTlhNGVjOWQwMDk4NTMyOGQ2ZGVlZDFkMzc0MGYxMWI0YTY0NzBhIiwidWlkIjoiNGE4NWZhMWRlZGU1MjcyZWVjNTA3YTlkNWM1NmViMTkiLCJ1c2VybmFtZSI6Im1hZHlhbmtpbiJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ5OTgzMDk1NCwiaGFzaCI6IjAwYWY1MDQxZmUwNzY3NjA4NzY5OGFkMTBlOTg5ZjcyZmIwYzFmMjM0OWYxOTAyOGUxNWY4ZmZiYjNiY2EyZjFhMTllYzhmNWRlMDU4OTdhMWQ0Njc4YWQxNjE1ZmE2YTE4ODkxZDI4NjQwYjJjZGJjMGJlODY3M2JlMWQ4NmYxIiwiaGFzaF9tZXRhIjoiMWQ1MDE4MTQzYzZlYjdjMGQzYTc5ZjRmZmI5YWQzMjg3YTNiNmEyNWI5NTJhZWE0OTE0OTM1M2E0YzNiNDU3MiIsInNlcW5vIjoxMjI2OTQ4fSwic2VydmljZSI6eyJob3N0bmFtZSI6Im1hZHlhbmtpbi5uYW1lIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4yNCJ9LCJjdGltZSI6MTQ5OTgzMTAwMSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiJhMzAzY2E4NDNmODZjNTdjMTE5NGJhZmYwNWIyMTJkYzVhM2JhMmMzNmZjNGRjZWU1OGUyYjlhY2Q5MmQ2YWZiIiwic2Vxbm8iOjEwLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQO8lWznzyHudR/DOSaJN1k8g5y2mrlXC8EkCQu/tdmysGwaKwmAWTfWN4qGYtfU3YNEAo8SCln7QvTTjFuZSjweoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCDJV10Ir9xu5bV0DojigJaUyX/xicTTBMJL/p8LSHSKVKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/madyankin
+
+==================================================================
