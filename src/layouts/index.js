@@ -9,7 +9,10 @@ const PageWrapper = ({ children }) => (
     <Helmet
       title="Alexander Madyankin"
       meta={[
-        { name: 'description', content: 'Alexander Madyankin. Frontend developer' },
+        {
+          name: 'description',
+          content: 'Alexander Madyankin. Frontend developer',
+        },
       ]}
     />
 
