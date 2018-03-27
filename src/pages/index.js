@@ -64,7 +64,6 @@ const IndexPage = () => (
           ['mailto:alexander@madyankin.name', 'E-mail'],
           ['skype:outpunk', 'Skype'],
           ['https://github.com/outpunk', 'Github'],
-          ['https://twitter.com/madyankin', 'Twitter'],
           ['https://www.facebook.com/alexander.madyankin', 'Facebook'],
           ['http://500px.com/madyankin', '500px'],
           ['https://instagram.com/madyankin/', 'Instagram'],
