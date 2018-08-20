@@ -54,7 +54,7 @@ const IndexPage = () => (
     <AboutSection>
       <Name>
         Alexander Madyankin
-        <Occupation>frontend developer</Occupation>
+        <Occupation>software developer</Occupation>
       </Name>
     </AboutSection>
 
