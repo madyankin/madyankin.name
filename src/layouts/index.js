@@ -1,7 +1,6 @@
 import React from 'react';
 import Helmet from 'react-helmet';
 
-import Analytics from '../components/Analytics';
 import Fonts from '../components/Fonts';
 
 const PageWrapper = ({ children }) => (
@@ -19,8 +18,6 @@ const PageWrapper = ({ children }) => (
     <Fonts />
 
     <div>{children()}</div>
-
-    <Analytics />
   </div>
 );
 
