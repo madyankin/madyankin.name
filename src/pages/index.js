@@ -62,7 +62,6 @@ const IndexPage = () => (
       <AboutLinks
         links={[
           ['mailto:alexander@madyankin.name', 'E-mail'],
-          ['skype:outpunk', 'Skype'],
           ['https://github.com/outpunk', 'Github'],
           ['http://500px.com/madyankin', '500px'],
           ['https://instagram.com/madyankin/', 'Instagram'],
