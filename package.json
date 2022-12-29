@@ -5,7 +5,7 @@
   "author": "Alexander Madyankin <alexander@madyankin.name>",
   "private": true,
   "dependencies": {
-    "gatsby": "^1.9.17",
+    "gatsby": "^5.3.3",
     "gatsby-link": "^1.6.15",
     "gatsby-plugin-react-helmet": "^1.0.5",
     "gatsby-plugin-styled-components": "^1.0.5",
